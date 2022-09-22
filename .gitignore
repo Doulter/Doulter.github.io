@@ -6,6 +6,7 @@
 .idea
 .vscode
 public
+.deploy_git
 
 
 
